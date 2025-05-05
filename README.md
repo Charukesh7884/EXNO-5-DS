@@ -54,4 +54,4 @@ REGISTER NO: 212224230044
 ![Screenshot 2025-04-20 112924](https://github.com/user-attachments/assets/539ddd86-ce75-4789-9462-ed5252f0674b)
 ![Screenshot 2025-04-20 112934](https://github.com/user-attachments/assets/45edc316-1cfb-4929-8fb4-ef1669bf7960)
 # Result:
- Include your result here
+ Data Visualization using matplot library is sucessfully completed.
